@@ -1,4 +1,4 @@
-Implementation of basic LCA in TypeScript.
+### Implementation of basic LCA in TypeScript.
 
 
 See the [other repo](https://github.com/cppavel-sweng/LCA-Python) for the Python version.

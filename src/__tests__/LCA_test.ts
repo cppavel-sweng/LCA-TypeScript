@@ -42,6 +42,14 @@ describe("find path", () => {
 });
 
 describe("find LCA", () => {
+    /* 
+                                1
+                               / \
+                              2   3
+                             / \ / \
+                            4  5 6  7
+  */
+  
   let valid_tree: TreeNode = new TreeNode(1);
   valid_tree.left = new TreeNode(2);
   valid_tree.right = new TreeNode(3);

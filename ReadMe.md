@@ -6,7 +6,7 @@ See the [other repo](https://github.com/cppavel-sweng/LCA-Python) for the Python
 
 * I had no prior experience with TypeScript before this module.
 
-* I used jest and docker here. I set up the option to collect coverage too.
+* I used jest and docker here. I set up the option to collect coverage too. The tests are parameterized.
 
 * If you are running windows simply execute "run_tests.cmd".
 
